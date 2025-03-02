@@ -1,0 +1,94 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "events": "Events",
+    "more": "More",
+    "rooms": "Rooms"
+  },
+  "hero": {
+    "welcome": "Welcome to Residencia",
+    "subtitle": "Your comfortable home away from home",
+    "bookRoom": "Book a Room"
+  },
+  "about": {
+    "title": "About Us",
+    "description1": "Residencia is a modern boarding house located in the heart of the city. We offer 20 comfortable rooms designed to make you feel at home while pursuing your studies or career.",
+    "description2": "Our facilities include high-speed Wi-Fi, a communal kitchen, laundry services, and 24/7 security to ensure your comfort and safety.",
+    "features": {
+      "wifi": {
+        "title": "Free Wi-Fi",
+        "description": "High-speed internet in all rooms and common areas"
+      },
+      "kitchen": {
+        "title": "Shared Kitchen",
+        "description": "Fully equipped kitchen for your cooking needs"
+      },
+      "community": {
+        "title": "Community",
+        "description": "Friendly environment to meet new people"
+      },
+      "lease": {
+        "title": "Flexible Leases",
+        "description": "Short and long-term stays available"
+      }
+    }
+  },
+  "events": {
+    "title": "Upcoming Events",
+    "learnMore": "Learn More",
+    "movieNight": {
+      "title": "Movie Night",
+      "description": "Join us for a fun movie night in the common area!"
+    },
+    "cookingWorkshop": {
+      "title": "Cooking Workshop",
+      "description": "Learn to cook delicious local dishes with our guest chef."
+    },
+    "gameTournament": {
+      "title": "Game Tournament",
+      "description": "Compete with your fellow residents in various board and video games."
+    }
+  },
+  "more": {
+    "title": "More Information",
+    "location": {
+      "title": "Location",
+      "description": "We are conveniently located at 123 Main Street, close to universities, shopping centers, and public transportation.",
+      "viewMap": "View on Map"
+    },
+    "contact": {
+      "title": "Contact Us",
+      "phone": "Phone",
+      "email": "Email",
+      "social": "Follow us on social media for updates and promotions!",
+      "button": "Contact Us"
+    }
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "questions": {
+      "lease": {
+        "question": "What are the lease terms?",
+        "answer": "We offer flexible lease terms ranging minimum from 3 months to 1 year. Short-term stays may be available upon request."
+      },
+      "utilities": {
+        "question": "Are utilities included in the rent?",
+        "answer": "Yes, all utilities including electricity, water, and high-speed internet are included in the monthly rent."
+      },
+      "parking": {
+        "question": "Is parking available?",
+        "answer": "We have limited on-site parking available for an additional monthly fee. Please inquire about availability when booking."
+      },
+      "pets": {
+        "question": "Are pets allowed?",
+        "answer": "Unfortunately, we do not allow pets in our boarding house to ensure the comfort of all residents."
+      },
+      "booking": {
+        "question": "How do I book a room?",
+        "answer": "You can book a room by clicking the \"Book a Room\" button on our website, which will show you available rooms. Alternatively, you can contact us directly for assistance."
+      }
+    }
+  }
+}
+

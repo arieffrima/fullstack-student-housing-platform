@@ -1,0 +1,94 @@
+{
+  "nav": {
+    "home": "Beranda",
+    "about": "Tentang",
+    "events": "Acara",
+    "more": "Lainnya",
+    "rooms": "Kamar"
+  },
+  "hero": {
+    "welcome": "Selamat Datang di Residencia",
+    "subtitle": "Rumah nyaman kedua Anda",
+    "bookRoom": "Pesan Kamar"
+  },
+  "about": {
+    "title": "Tentang Kami",
+    "description1": "Residencia adalah rumah kos modern yang berlokasi di pusat kota. Kami menyediakan 20 kamar nyaman yang dirancang untuk membuat Anda merasa seperti di rumah selama menjalani studi atau karir.",
+    "description2": "Fasilitas kami mencakup Wi-Fi berkecepatan tinggi, dapur bersama, layanan laundry, dan keamanan 24/7 untuk memastikan kenyamanan dan keamanan Anda.",
+    "features": {
+      "wifi": {
+        "title": "Wi-Fi Gratis",
+        "description": "Internet berkecepatan tinggi di semua kamar dan area umum"
+      },
+      "kitchen": {
+        "title": "Dapur Bersama",
+        "description": "Dapur lengkap untuk kebutuhan memasak Anda"
+      },
+      "community": {
+        "title": "Komunitas",
+        "description": "Lingkungan ramah untuk bertemu teman baru"
+      },
+      "lease": {
+        "title": "Sewa Fleksibel",
+        "description": "Tersedia sewa jangka pendek dan panjang"
+      }
+    }
+  },
+  "events": {
+    "title": "Acara Mendatang",
+    "learnMore": "Selengkapnya",
+    "movieNight": {
+      "title": "Malam Film",
+      "description": "Bergabunglah dalam malam film seru di area umum!"
+    },
+    "cookingWorkshop": {
+      "title": "Workshop Memasak",
+      "description": "Belajar memasak hidangan lokal lezat dengan chef tamu kami."
+    },
+    "gameTournament": {
+      "title": "Turnamen Game",
+      "description": "Berkompetisi dengan sesama penghuni dalam berbagai permainan papan dan video game."
+    }
+  },
+  "more": {
+    "title": "Informasi Lainnya",
+    "location": {
+      "title": "Lokasi",
+      "description": "Kami berlokasi strategis di Jalan Utama 123, dekat dengan universitas, pusat perbelanjaan, dan transportasi umum.",
+      "viewMap": "Lihat Peta"
+    },
+    "contact": {
+      "title": "Hubungi Kami",
+      "phone": "Telepon",
+      "email": "Email",
+      "social": "Ikuti media sosial kami untuk update dan promosi!",
+      "button": "Hubungi Kami"
+    }
+  },
+  "faq": {
+    "title": "Pertanyaan yang Sering Diajukan",
+    "questions": {
+      "lease": {
+        "question": "Bagaimana ketentuan sewa?",
+        "answer": "Kami menawarkan ketentuan sewa fleksibel mulai dari 3 bulan hingga 1 tahun. Sewa jangka pendek tersedia berdasarkan permintaan."
+      },
+      "utilities": {
+        "question": "Apakah utilitas termasuk dalam biaya sewa?",
+        "answer": "Ya, semua utilitas termasuk listrik, air, dan internet berkecepatan tinggi sudah termasuk dalam biaya sewa bulanan."
+      },
+      "parking": {
+        "question": "Apakah tersedia parkir?",
+        "answer": "Kami memiliki parkir terbatas dengan biaya tambahan per bulan. Silakan tanyakan ketersediaan saat melakukan pemesanan."
+      },
+      "pets": {
+        "question": "Apakah hewan peliharaan diizinkan?",
+        "answer": "Maaf, kami tidak mengizinkan hewan peliharaan di rumah kos kami untuk memastikan kenyamanan semua penghuni."
+      },
+      "booking": {
+        "question": "Bagaimana cara memesan kamar?",
+        "answer": "Anda dapat memesan kamar dengan mengklik tombol \"Pesan Kamar\" di website kami untuk melihat kamar yang tersedia. Atau, Anda dapat menghubungi kami langsung untuk bantuan."
+      }
+    }
+  }
+}
+
